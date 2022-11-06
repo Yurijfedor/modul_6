@@ -1,6 +1,7 @@
 {
   "name": "goit-react-textbook-lesson-11-example-app",
   "version": "1.0.0",
+  "homepage": "https://yurijfedor.github.io/modul_6/",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
